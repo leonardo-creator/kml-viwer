@@ -58,7 +58,7 @@ Este é um visualizador de arquivos KML desenvolvido com Next.js. Ele permite qu
 
    ```bash
    git clone <URL_DO_REPOSITORIO>
-   cd v0-next-js-kml-viewer
+   cd kml-viewer
    ```
 
 2. Instale as dependências:
